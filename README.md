@@ -1,5 +1,3 @@
-### Hi 👋 
-
 - 🌱 I’m currently learning React / Redux / TypeScript
 - 🦾 My technology stack: JS, React, Redux, HTML, CSS, CSCC, SASS, Bootstrap, Webpack, Gulp, BEM, Git, Figma, ...
 - 😎 My [LinkedIn](https://www.linkedin.com/in/nikitaklimuk/) 
